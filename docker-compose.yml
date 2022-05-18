@@ -16,4 +16,4 @@ services:
       BOT_NAME: $BOT_NAME  # defaults to None
       OWNER_NAME: $OWNER_NAME  # defaults to None
       ALIVE_NAME: $ALIVE_NAME  # defaults to None
-      
+      GROUP_SUPPORT: $GROUP_SUPPORT  # defaults to None
