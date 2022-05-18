@@ -16,4 +16,4 @@ services:
       BOT_NAME: $BOT_NAME  # defaults to None
       OWNER_NAME: $OWNER_NAME  # defaults to None
       ALIVE_NAME: $ALIVE_NAME  # defaults to None
-    
+      DURATION_LIMIT: $DURATION_LIMIT  # defaults to None
